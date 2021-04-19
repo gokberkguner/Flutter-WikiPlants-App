@@ -352,7 +352,7 @@ class _HomePageState extends State<HomePage> {
                   onPressed: () {},
                 ),
                 Text(
-                  "Datanthuastic - 2021",
+                  "Gökberk Güner - 2021",
                   style: TextStyle(
                     color: const Color(0xff47455f),
                   ),
